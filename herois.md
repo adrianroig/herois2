@@ -6,4 +6,3 @@
 * Aquaman
 * Mujer Maravilla
 * Jessica Jones
-* Adrian Roig
